@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+main {
+  background-color: white;
+  color: black;
+}
+
+section {
+  background-color: white;
+  color: black;
+  float: left;
+  margin: 0 1.5%;
+  width: 60%;
+  font-family: 'Raleway', sans-serif;
+}
+
+aside {
+  background-color: white;
+  border: black;
+  color: black;
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
+hr {
+  width: 100%;
+}
+
+footer {
+  clear: both;
+}
+
+table {
+  border-style: double;
+}
+
+td:nth-child(1){
+  color:indianred;
+  background-color:aliceblue;
+}
